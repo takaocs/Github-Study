@@ -1,2 +1,2 @@
 # Github-Study
-Githubの勉強
+Githubの勉強のためのリポジトリ。
